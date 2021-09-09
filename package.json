@@ -1,5 +1,5 @@
 {
-  "name": "update-flutter-packages",
+  "name": "flutter-package-update",
   "version": "1.0.0",
   "description": "Flutter package update automation",
   "main": "lib/index.js",
